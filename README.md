@@ -1,6 +1,6 @@
 # Coffee & Ham Radios Antenna Kit Instructions
 
-## Take a look at the files above and pick the one that matches your antenna kit!
+## [Artemis Build Guide](https://github.com/TemporarilyOffline/cahrtenna/blob/main/CaHRtenna%20Artemis%20Build%20Instructions.pdf)
 
 Some videos that might help you in your build:
 
