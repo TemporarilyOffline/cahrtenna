@@ -2,9 +2,12 @@
 
 If anything is missing from your kit, let us know and we'll make it right!
 
-## [Artemis Build Guide](https://github.com/TemporarilyOffline/cahrtenna/blob/main/CaHRtenna%20Artemis%20Build%20Instructions.pdf)
+## [Artemis EFHW Build Guide](https://github.com/TemporarilyOffline/cahrtenna/blob/main/CaHRtenna%20Artemis%20Build%20Instructions.pdf)
+## [Mercury Linked Dipole Build Guide](https://github.com/TemporarilyOffline/cahrtenna/blob/main/CaHRTenna%20Mercury%20Linked%20Dipole%20Instructions.pdf)
 
 Some videos that might help you in your build:
+
+[![Chuck's Awesome Mercury Build Guide Video](https://img.youtube.com/vi/O_D4UXJwi74/maxresdefault.jpg)](https://www.youtube.com/watch?v=O_D4UXJwi74)
 
 [![TO Winds a 49:1](https://img.youtube.com/vi/U0fSlhvl76Y/maxresdefault.jpg)](https://youtu.be/U0fSlhvl76Y)
 
