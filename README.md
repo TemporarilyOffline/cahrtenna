@@ -2,7 +2,8 @@
 
 If anything is missing from your kit, let us know and we'll make it right!
 
-## [Artemis EFHW Build Guide](https://github.com/TemporarilyOffline/cahrtenna/blob/main/CaHRtenna%20Artemis%20Build%20Instructions.pdf)
+## [Apollo EFHW Build Guide](https://github.com/TemporarilyOffline/cahrtenna/blob/main/CaHRtenna%20Apollo%20Build%20Instructions.pdf)
+## Retired [Artemis EFHW Build Guide](https://github.com/TemporarilyOffline/cahrtenna/blob/main/CaHRtenna%20Artemis%20Build%20Instructions.pdf)
 ## [Mercury Linked Dipole Build Guide](https://github.com/TemporarilyOffline/cahrtenna/blob/main/CaHRTenna%20Mercury%20Linked%20Dipole%20Instructions.pdf)
 
 Some videos that might help you in your build:
